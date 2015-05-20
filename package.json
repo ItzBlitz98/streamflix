@@ -1,0 +1,20 @@
+{
+  "name": "streamflix",
+  "version": "0.0.1",
+  "description": "cli for streaming movies from multiple sources",
+  "bin": {
+    "streamflix": "bin/streamflix"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "itzblitz98",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.0.0",
+    "commander": "^2.8.1",
+    "inquirer": "^0.8.4",
+    "js-yaml": "^3.3.1",
+    "request": "^2.55.0"
+  }
+}

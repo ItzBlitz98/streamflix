@@ -1,0 +1,5 @@
+#yify.tv domain
+yifytv: http://yify.tv
+
+#player executable
+player : vlc
