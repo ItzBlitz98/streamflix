@@ -1,5 +1,8 @@
 #yify.tv domain
 yifytv: http://yify.tv
 
+#view47.com domain
+view47: http://view47.com
+
 #player executable
 player : vlc
