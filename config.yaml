@@ -4,5 +4,8 @@ yifytv: http://yify.tv
 #view47.com domain
 view47: http://view47.com
 
+#movbucket.com domain
+movbucket: http://api.movbucket.com
+
 #player executable
 player : vlc
