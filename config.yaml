@@ -26,4 +26,5 @@ player_sub_cmd: --sub-file=
 
 #download location (absolute path) (with trailing slash)
 #ex: download_location: /home/geewiz/Videos/
+#If you dont set this it wont ask you if you want to download the file
 download_location:
