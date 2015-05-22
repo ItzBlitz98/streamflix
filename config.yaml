@@ -5,14 +5,15 @@ yifytv: http://yify.tv
 view47: http://view47.com
 
 #movbucket.com domain
-movbucket: http://api.movbucket.com
+popcorntimefree: http://popcorntimefree.info
 
 #enable or disable subtitles
 subtitles: false
 
 #what language you want your subtitles in
-#go here https://github.com/aetheon/node-opensubtitles-client/blob/master/langs.dump.txt
-#and search for your language alias is you are unsure
+#go here:
+#https://github.com/aetheon/node-opensubtitles-client/blob/master/langs.dump.txt
+#and search for your language alias if you are unsure
 subtitle_lang: eng
 
 #player executable
