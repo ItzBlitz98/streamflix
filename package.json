@@ -18,6 +18,7 @@
     "js-yaml": "^3.3.1",
     "opensubtitles-client": "^2.2.0",
     "q": "^1.4.1",
-    "request": "^2.55.0"
+    "request": "^2.55.0",
+    "request-progress": "^0.3.1"
   }
 }

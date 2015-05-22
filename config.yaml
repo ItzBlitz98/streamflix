@@ -16,9 +16,14 @@ subtitles: false
 subtitle_lang: eng
 
 #player executable
-player : vlc
+player: vlc
 
 #here is where you need to enter the command for loading subtitles into your player
 #for vlc its --sub-file=
 #for mpv its --sub-file=
 player_sub_cmd: --sub-file=
+
+
+#download location (absolute path) (with trailing slash)
+#ex: download_location: /home/geewiz/Videos/
+download_location:
