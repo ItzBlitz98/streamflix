@@ -8,7 +8,7 @@ view47: http://view47.com
 movbucket: http://api.movbucket.com
 
 #enable or disable subtitles
-subtitles: true
+subtitles: false
 
 #what language you want your subtitles in
 #go here https://github.com/aetheon/node-opensubtitles-client/blob/master/langs.dump.txt

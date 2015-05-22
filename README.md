@@ -25,3 +25,8 @@ npm install
 ```
 
 You can now run the executable in the bin directory.
+
+## Subtitles
+Streamflix can fetch subtitles automagically for you, Subtitles can be enabled from the config.yaml file. Just set subtitles to true.
+
+I can't guarantee that the subtitles will match but in my limited testing they were spot on.
