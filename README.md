@@ -40,6 +40,12 @@ updates are important as sites change and this is still in active development.
 
 If you update and get an error like "module not found" when launching, Do another npm install.
 
+## Alias
+I would reccomend creating a bash/zsh alias to make launching the app easier.
+```
+alias streamflix="/home/geewiz/Apps/streamflix/bin/streamflix"
+```
+
 ## Configuration
 
 Streamflix comes with a default config. Open up config.yaml and tweak things to your prefrence.
