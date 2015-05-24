@@ -2,7 +2,7 @@
 
 A cli tool for searching streaming sites and streaming using a player of your choice.
 
-It currently supports yify.tv, view47.com, popcorntimefree.info.
+It currently supports yify.tv, view47.com, popcorntimefree.info, Movietube.pw and Reddit subreddits of your choice.
 
 Want more ? Create an issue with a request, Alternatively you can contribute your own scrapers.
 
