@@ -17,12 +17,11 @@ Here is a shot video showing the interface off: http://a.pomf.se/ajsloe.webm
 
 ## Install (manual)
 
-Clone the repository:
+Ensure you have nodejs installed.
 
-```
-git clone git@github.com:ItzBlitz98/streamflix.git
-```
+Clone the repository or download the latest [release](https://github.com/ItzBlitz98/streamflix/releases/latest)
 
+Unzip and or cd into the streamflix directory.
 
 Install dependencies:
 
@@ -31,12 +30,6 @@ npm install
 ```
 
 You can now run the executable in the bin directory.
-
-You can update by doing a:
-```
-git pull
-```
-updates are important as sites change and this is still in active development.
 
 If you update and get an error like "module not found" when launching, Do another npm install.
 
