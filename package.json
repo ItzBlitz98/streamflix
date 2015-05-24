@@ -1,6 +1,6 @@
 {
   "name": "streamflix",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "cli for streaming movies from multiple sources",
   "bin": {
     "streamflix": "bin/streamflix"
