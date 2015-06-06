@@ -13,7 +13,7 @@ reddit:
   - fullmoviesonyoutube
   - fullforeignmovies
 
-#youtube channel id's or playlist id's
+#youtube channel id's or playlist id's (comment is optional)
 youtube:
   - UCSMOQeBJ2RAnuFungnQOxLg #BlenderFoundation
   - PL6B3937A5D230E335 #Blender Open Movies
