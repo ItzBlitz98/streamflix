@@ -9,7 +9,7 @@ Want more ? Create an issue with a request, Alternatively you can contribute you
 Pull requests are welcome.
 
 ## Preview
-Here is a shot video showing the interface off: http://a.pomf.se/ajsloe.webm
+Here is a shot video showing the interface off: http://cdfile.cf/f/8ba6ec8a.webm
 
 ## Key features
 *   Automatic subtitle downloader.
