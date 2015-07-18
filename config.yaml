@@ -35,6 +35,10 @@ player: vlc
 #for mpv its --sub-file=
 player_sub_cmd: --sub-file=
 
+#Here is where you can pass any arguments to your player of choice
+#For example on vlc you might want to pass --file-caching="<ms>" --network-caching="<ms>"
+#To raise the ammount of network buffer
+player_arg_cmd:
 
 #download location (absolute path) (with trailing slash)
 #ex: download_location: /home/geewiz/Videos/
