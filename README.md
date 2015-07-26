@@ -2,7 +2,7 @@
 
 A cli tool for searching streaming sites and streaming using a player of your choice.
 
-It currently supports yify.tv, view47.com, popcorntimefree.info, Movietube.pw and Reddit subreddits of your choice.
+It currently supports yify.tv, view47.com, 123movies.to, youtube and Reddit subreddits of your choice.
 
 Want more ? Create an issue with a request, Alternatively you can contribute your own scrapers.
 
@@ -34,7 +34,7 @@ You can now run the executable in the bin directory.
 If you update and get an error like "module not found" when launching, Do another npm install.
 
 ## Alias
-I would reccomend creating a bash/zsh alias to make launching the app easier.
+I would recommend creating a bash/zsh alias to make launching the app easier.
 ```
 alias streamflix="/home/geewiz/Apps/streamflix/bin/streamflix"
 ```
